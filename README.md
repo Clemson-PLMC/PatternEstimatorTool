@@ -12,4 +12,4 @@ There are two parts to the plugin: the XML for the GUI ([PatternTimeEstimator.dl
 This plugin was written using NXOpen, the Application Programmer Interface (API) for Siemens NX, in VB.NET. It was written for NX 1980 but can purportedly be employed in any version of NX after NX 5.0.2.
 
 ## Feedback
-Comments? Questions? Email us at [mailto:plmcenter@clemson.edu](plmcenter@clemson.edu)!
+Comments? Questions? Email us at [plmcenter@clemson.edu](mailto:plmcenter@clemson.edu)!
